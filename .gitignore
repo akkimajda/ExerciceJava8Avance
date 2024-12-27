@@ -1,0 +1,33 @@
+# Dossier de sortie de Maven
+target/
+
+# Fichiers journaux
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers spécifiques à l'IDE IntelliJ IDEA
+.idea/
+*.iml
+
+# Fichiers spécifiques à Eclipse
+.classpath
+.project
+.settings/
+
+# Fichiers spécifiques à NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Fichiers spécifiques à VS Code
+.vscode/
+
+# Fichiers de configuration spécifiques à l'environnement
+.env
+*.env
